@@ -1,0 +1,9 @@
+*.iml
+.idea
+.gradle
+/build
+/Contacts/build
+/common/build
+/ContactsCommon/build
+/PhoneCommon/build
+/vcard/build
